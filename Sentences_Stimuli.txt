@@ -1,0 +1,81 @@
+ITEM	CONDITION	LANGUAGE	SENTENCE	NUMBER_OF_CRITICAL_ELEMENTS	NUMBER_OF_CHARACTERS	NUMBER_OF_WORDS
+1001a	NEGATIVE	ENGLISH	His incurable cancer was a hopeless illness that became a traumatic tragedy.	6	76	12
+1001b	NEUTRAL	ENGLISH	His primary handbook was a manageable paragraph that became a singular routine.	6	79	12
+1002a	NEGATIVE	ENGLISH	The terrible infection caused a violent diarrhea for the agonizing prisoner.	6	76	11
+1002b	NEUTRAL	ENGLISH	The informal questionnaire caused a conventional practice for the discreet researcher.	6	86	11
+1003a	NEGATIVE	ENGLISH	The decomposed corpse of the victim marked the immoral nightmare of the weak assassin.	7	86	14
+1003b	NEUTRAL	ENGLISH	The anterior background of the director marked the prudent trajectory of the obscure organization.	7	98	14
+1004a	NEGATIVE	ENGLISH	During the amputation the poisoning spread to the defenseless enemy and led to a crappy death.	6	94	16
+1004b	NEUTRAL	ENGLISH	During the conference the consensus spread to the centennial canteen and led to a suitable arrangement.	6	103	16
+1005a	NEGATIVE	ENGLISH	Everyday the dangerous sociopath asks for agony and incarceration while looking at the mutilate nigger.	6	103	15
+1005b	NEUTRAL	ENGLISH	Everyday the capitalist banker asks for oysters and prawns while looking at the outer newspaper.	6	96	15
+1006a	NEGATIVE	ENGLISH	Since her disgraceful miscarriage the furious beggar has a devastating hemorrhage.	6	82	11
+1006b	NEUTRAL	ENGLISH	Since her predictable subscription the sainted schoolteacher has a brown folder.	6	80	11
+1007a	NEGATIVE	ENGLISH	Today the sadist pedophile has made a bloody incision with the irritable hostage.	6	81	13
+1007b	NEUTRAL	ENGLISH	Today the provincial parliament has made an ordinary pause with the metaphysical mathematician.	6	95	13
+1008a	NEGATIVE	ENGLISH	Every night an unbearable and terrifying abuse takes place in the vicious criminal prison.	6	90	14
+1008b	NEUTRAL	ENGLISH	Every night a domestic and daily circumstance takes place in the ecological catholic center.	6	92	14
+1009a	NEGATIVE	ENGLISH	Last night the repulsive kidnapper used a vile fraud to convince the scared cheater.	6	84	14
+1009b	NEUTRAL	ENGLISH	Last night the southern shepherd used an admissible sermon to convince the vegetarian spectator.	6	96	14
+1010a	NEGATIVE	ENGLISH	At noon the hostile terrorist will bring his toxic bomb to the schizophrenic cannibal.	6	86	14
+1010b	NEUTRAL	ENGLISH	At noon the civil receptionist will bring his meticulous petition to the municipal doorman.	6	91	14
+1011a	NEGATIVE	ENGLISH	At dawn the pervert aggressor gives the infectious urine to his morbid oppressor.	6	81	13
+1011b	NEUTRAL	ENGLISH	At dawn the ginger milkman gives the glass bottle to his indulgent neighbor.	6	76	13
+1012a	NEGATIVE	ENGLISH	The miserable gangster went to the frustrating funeral to finish with his nasty revenge.	6	88	14
+1012b	NEUTRAL	ENGLISH	The western electrician went to the silent barbershop to finish with his usual moustache.	6	89	14
+1013a	NEGATIVE	ENGLISH	The insolent anarchist will receive the lethal gunshot because of his fatal disloyalty.	6	87	13
+1013b	NEUTRAL	ENGLISH	The postal subscriber will receive the promotional antenna because of his editorial supply.	6	91	13
+1014a	NEGATIVE	ENGLISH	The alcoholic nausea of the lonely suspect produced an insane rage.	6	67	11
+1014b	NEUTRAL	ENGLISH	The supposed guide of the prodigious biographer produced an uncommon coverage.	6	78	11
+1015a	NEGATIVE	ENGLISH	During the sickening dictatorship they developed a negative repression for the problematic traitor.	6	99	13
+1015b	NEUTRAL	ENGLISH	During the placid congregation they developed a specific calendar for the basic monologue.	6	90	13
+1016a	NEGATIVE	ENGLISH	The rancid stink of his excrement provoked the vomit of the starving slave.	6	75	13
+1016b	NEUTRAL	ENGLISH	The gradual signal of his disk provoked the silence of the eventual client.	6	75	13
+1017a	NEGATIVE	ENGLISH	The degenerate coward thinks that satanic torture is not an illegal atrocity.	6	77	12
+1017b	NEUTRAL	ENGLISH	The gentile participant thinks that initial prudence is not a continuous formality.	6	83	12
+1018a	NEGATIVE	ENGLISH	In the morning the cruel dictator invented a frightening punishment based on horrifying hostility.	6	98	14
+1018b	NEUTRAL	ENGLISH	In the morning the staff of the agency invented a statistical study based on subliminal publishing.	6	99	16
+1019a	NEGATIVE	ENGLISH	Pathological malnutrition is an unforgivable shame for the claustrophobic orphanage.	6	84	10
+1019b	NEUTRAL	ENGLISH	Manual measurement is a tentative category for the numerical documentation.	6	75	10
+1020a	NEGATIVE	ENGLISH	Epidemic and unsafe contagion are the hazardous damage of any inadequate murder.	7	80	12
+1020b	NEUTRAL	ENGLISH	Magnesium and residual barium are the chemical principle of any metal sediment.	7	79	12
+2001a	NEGATIVE	SPANISH	Su cáncer incurable era una enfermedad desesperada que se convirtió en una tragedia traumática.	6	95	14
+2001b	NEUTRAL	SPANISH	Su manual principal era un párrafo manejable que se convirtió en una rutina singular.	6	85	14
+2002a	NEGATIVE	SPANISH	La terrible infección supuso una violenta diarrea para el prisionero agonizante.	6	80	11
+2002b	NEUTRAL	SPANISH	El cuestionario informal supuso una práctica convencional para el discreto investigador.	6	88	11
+2003a	NEGATIVE	SPANISH	El cadáver descompuesto de la víctima marcó la pesadilla inmoral de la débil asesina.	7	85	14
+2003b	NEUTRAL	SPANISH	El contexto anterior de la directora marcó la prudente trayectoria de la oscura organización.	7	93	14
+2004a	NEGATIVE	SPANISH	Durante la amputación la intoxicación se extendió por el enemigo indefenso y llevó a una muerte desagradable.	6	109	17
+2004b	NEUTRAL	SPANISH	Durante la conferencia el consenso se extendió por la cantina centenaria y llevó a un acuerdo apropiado.	6	104	17
+2005a	NEGATIVE	SPANISH	Todos los días el peligroso sociópata pide agonía y reclusión mientras mira el negrata mutilado.	6	96	15
+2005b	NEUTRAL	SPANISH	Todos los días el banquero capitalista pide ostras y gambas mientras mira el periódico exterior.	6	96	15
+2006a	NEGATIVE	SPANISH	Desde su aborto vergonzoso la furiosa mendiga tiene una hemorragia devastadora.	6	79	11
+2006b	NEUTRAL	SPANISH	Desde su suscripción predecible la bendita maestra tiene una carpeta marrón.	6	76	11
+2007a	NEGATIVE	SPANISH	Hoy el sádico pedófilo ha hecho una incisión sangrienta con el rehén irritado.	6	78	13
+2007b	NEUTRAL	SPANISH	Hoy el parlamento provincial ha hecho una pausa ordinaria con el matemático metafísico.	6	87	13
+2008a	NEGATIVE	SPANISH	Cada noche un abuso insufrible y aterrador tiene lugar en la viciosa prisión criminal.	6	86	14
+2008b	NEUTRAL	SPANISH	Cada noche una circunstancia doméstica y diaria tiene lugar en el centro ecológico católico.	6	92	14
+2009a	NEGATIVE	SPANISH	La pasada noche el secuestrador repulsivo usó un fraude vil para convencer al asustado tramposo.	6	96	15
+2009b	NEUTRAL	SPANISH	La pasada noche el pastor sureño usó un sermón admisible para convencer al espectador vegetariano.	6	98	15
+2010a	NEGATIVE	SPANISH	Al mediodía el terrorista hostil llevará su bomba tóxica al caníbal esquizofrénico.	6	83	12
+2010b	NEUTRAL	SPANISH	Al mediodía el recepcionista civil llevará su meticulosa petición al portero municipal.	6	87	12
+2011a	NEGATIVE	SPANISH	Al amanecer el agresor pervertido le da la orina infecciosa a su morboso opresor.	6	81	14
+2011b	NEUTRAL	SPANISH	Al amanecer el lechero pelirrojo le da la botella de cristal a su indulgente vecino.	6	84	15
+2012a	NEGATIVE	SPANISH	El miserable mafioso fue al frustrante funeral para terminar con su repugnante venganza.	6	88	13
+2012b	NEUTRAL	SPANISH	El electricista occidental fue a la barbería silenciosa para terminar con su usual bigote.	6	90	14
+2013a	NEGATIVE	SPANISH	El anarquista insolente recibirá el disparo letal por su fatal deslealtad.	6	74	11
+2013b	NEUTRAL	SPANISH	El suscriptor postal recibirá la antena promocional por su suministro editorial.	6	80	11
+2014a	NEGATIVE	SPANISH	La náusea alcohólica del sospechoso solitario produjo una rabia insana.	6	71	10
+2014b	NEUTRAL	SPANISH	La supuesta guía del prodigioso biógrafo produjo una rara cobertura.	6	68	10
+2015a	NEGATIVE	SPANISH	Durante la nauseabunda dictadura ellos desarrollaron una represión negativa para el traidor problemático.	6	105	13
+2015b	NEUTRAL	SPANISH	Durante la plácida congregación ellos desarrollaron un calendario específico para el monólogo básico.	6	101	13
+2016a	NEGATIVE	SPANISH	La peste rancia de su excremento provocó el vómito de la hambrienta esclava.	6	76	13
+2016b	NEUTRAL	SPANISH	La señal gradual de su disco provocó el silencio de la cliente eventual.	6	72	13
+2017a	NEGATIVE	SPANISH	El cobarde degenerado piensa que la tortura satánica no es una atrocidad ilegal.	6	80	13
+2017b	NEUTRAL	SPANISH	El gentil participante piensa que la prudencia inicial no es una formalidad continua.	6	85	13
+2018a	NEGATIVE	SPANISH	Por la mañana el cruel dictador inventó un aterrador castigo basado en la horripilante hostilidad.	6	98	15
+2018b	NEUTRAL	SPANISH	Por la mañana el personal de la agencia inventó un estudio estadístico basado en la publicación subliminal.	6	107	17
+2019a	NEGATIVE	SPANISH	La malnutrición patológica es una humillación imperdonable para el claustrofóbico orfanato.	6	91	11
+2019b	NEUTRAL	SPANISH	La medición manual es una categoría provisional para la documentación numérica.	6	79	11
+2020a	NEGATIVE	SPANISH	La epidemia y el contagio inseguro son el peligroso daño de cualquier asesinato inadecuado.	7	91	14
+2020b	NEUTRAL	SPANISH	El magnesio y el bario residual son el principio químico de cualquier sedimento metálico.	7	89	14

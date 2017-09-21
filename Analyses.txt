@@ -1,0 +1,7 @@
+Pupil sizes
+The right pupil of the participants was recorded at a rate of 1000Hz using an SR Research EyeLink 1000 eye-tracker. After discarding error trials and trials in which pupil size values deviated more than 2.5 SD from the mean (fro each participant in each condition), a pupil size measure was calculated by averaging across the 10-sec trial resulting in an individual measure per trial (and per participant).
+Removed participants: n=2, due to the fact that their mean pupil size in both conditions deviated more than 2.5SD from the population means. 
+Emotional ratings
+After each sentence, instructions appeared asking participants to rate on a 1-to-7 scale the emotional impact of the sentence (1=low, neutral impact; 7=high, negative impact). These instructions were given in the language in which the experimental session was conducted. Emotional impact ratings were collected by pressing the appropriate button on a response box with 7 labelled buttons located in front of them at a comfortable distance 
+
+The data were analyzed using R and the R packages lme4 afex. Pupil sizes and emotional ratings were both analyzed with a linear mixed effects model with language and emotion as fixed effects including their interaction, as well as averaged ratings of semantic composability (obtained in a norming study) as covariate. Fixed effects were sum-to-zero coded. Participant and item were included as random intercepts, and a random slope for emotion by participant was also included. 
